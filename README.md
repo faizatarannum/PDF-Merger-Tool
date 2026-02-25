@@ -16,4 +16,4 @@ A simple GUI-based PDF merger tool built using Python, Tkinter, and PyPDF2.
 
 ## How to Run
 pip install PyPDF2
-python pdf_merger.py
+python merger.py
